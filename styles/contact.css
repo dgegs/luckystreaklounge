@@ -1,0 +1,91 @@
+html, body {
+    min-height: 100%;
+    padding: 0;
+    margin: 0;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
+    color: #666;
+    }
+    h1 {
+    margin: 0 0 20px;
+    font-weight: 400;
+    color: #a2690d;
+    }
+   /* p {
+    margin: 0 0 5px;
+    color: #a2690d;
+    }*/
+    .main-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #C58E34;
+    }
+    form {
+    padding: 25px 100px 25px 25px;
+    margin: 25px 300px 25px 25px;
+    box-shadow: 0 2px 5px #f5f5f5; 
+    background: #f5f5f5; 
+    }
+    .fas {
+    margin: 25px 10px 0;
+    font-size: 72px;
+    color: #a2690d;
+    }
+    .fa-envelope {
+    transform: rotate(-20deg);
+    font-size: 150px;
+    }
+    .fa-at , .fa-envelopes-bulk{
+    transform: rotate(10deg);
+    font-size: 150px;
+    }
+    .fa-truck-fast{
+    transform: rotate(20deg);
+    font-size: 150px;
+    }
+    input, textarea {
+    width: calc(100% - 18px);
+    padding: 8px;
+    margin-bottom: 30px;
+    border: 1px solid #a2690d;
+    outline: none;
+    }
+    input::placeholder {
+    color: #a2690d;
+    }
+    textarea::placeholder{
+    color: #a2690d;
+    }
+    button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: #a2690d; 
+    font-size: 16px;
+    font-weight: 400;
+    color: #f4a536;
+    }
+    button:hover {
+    background: #f4a536;
+    color: #a2690d;
+    font-weight: bold;
+    }    
+    @media (min-width: 568px) {
+    .main-block {
+    flex-direction: row;
+    }
+    .left-part, form {
+    width: 50%;
+    }
+    .fa-envelope {
+    margin-top: 0;
+    margin-left: 20%;
+    }
+    .fa-at {
+    margin-top: -10%;
+    margin-left: 65%;
+    }
+}
