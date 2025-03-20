@@ -100,6 +100,11 @@
     opacity: 0.65; /* Optional: Add opacity to give a disabled effect */
 }
 
+.hours{
+  color: rgb(117, 5, 1 );
+  font-weight: 800;
+  font-size: 22px;
+}
 
 
 /*!
@@ -154,6 +159,7 @@
   --bs-light-rgb: 248, 249, 250;
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 255, 255, 255;
+  --bs-lslgold: #CEAA6C;
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
@@ -165,7 +171,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #CEAA6C;
   --bs-border-width: 1px;
   --bs-border-style: solid;
   --bs-border-color: #dee2e6;
