@@ -11,11 +11,18 @@ require 'PHPMailer/Exception.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = strip_tags(trim($_POST["name"]));
     $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
+    $phone = strip_tags(trim($_POST["phone"]));
     $message = trim($_POST["message"]);
 
     // Validate form inputs
     if (empty($name) || empty($email) || empty($message) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
         echo "Please fill out all fields correctly.";
+        exit;
+    }
+
+    // Validate phone number (Optional)
+    if (empty($phone) || !preg_match('/^\+?[0-9\s\-\(\)]+$/', $phone)) {
+        echo "Please enter a valid phone number.";
         exit;
     }
 
@@ -41,6 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <h3>New Contact Message</h3>
             <p><strong>Name:</strong> $name</p>
             <p><strong>Email:</strong> $email</p>
+            <p><strong>Phone:</strong>$phone</p>
             <p><strong>Message:</strong></p>
             <p>$message</p>
         ";
