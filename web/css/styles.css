@@ -225,6 +225,22 @@
   text-align: left;
 }
 
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; /* Adds space between icons */
+}
+
+.my-fa{
+  color: rgb(117, 5, 1); /* Default color */
+    transition: color 0.3s ease-in-out;
+}
+
+.my-fa:hover{
+  color: red; /* Change on hover */
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
