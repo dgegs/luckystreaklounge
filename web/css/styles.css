@@ -198,6 +198,33 @@
     color: #B10501;
 }
 
+.aboutUs{
+    color: rgb(117, 5, 1 );
+    font-weight: 800;
+    font-size: 42px;
+  }
+
+  .aboutTagline{
+    color: rgb(117, 5, 1 );
+    font-weight: 800;
+    font-size: 28px;
+    text-align: center ;
+  }
+
+  .aboutHeading{
+    color: rgb(117, 5, 1 );
+    font-weight: 800;
+    font-size: 32px;
+    text-align: left ;
+  }
+
+.aboutText{
+  color: rgb(117, 5, 1 );
+  font-weight: 400;
+  font-size: 20px;
+  text-align: left;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
