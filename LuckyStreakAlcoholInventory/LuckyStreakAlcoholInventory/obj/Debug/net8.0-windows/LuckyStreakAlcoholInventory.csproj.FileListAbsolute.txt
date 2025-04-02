@@ -1,0 +1,17 @@
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\bin\Debug\net8.0-windows\LuckyStreakAlcoholInventory.exe
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\bin\Debug\net8.0-windows\LuckyStreakAlcoholInventory.deps.json
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\bin\Debug\net8.0-windows\LuckyStreakAlcoholInventory.runtimeconfig.json
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\bin\Debug\net8.0-windows\LuckyStreakAlcoholInventory.dll
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\bin\Debug\net8.0-windows\LuckyStreakAlcoholInventory.pdb
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.Form1.resources
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.csproj.GenerateResource.cache
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.AssemblyInfoInputs.cache
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.AssemblyInfo.cs
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.csproj.CoreCompileInputs.cache
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.sourcelink.json
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.dll
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\refint\LuckyStreakAlcoholInventory.dll
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.pdb
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\LuckyStreakAlcoholInventory.genruntimeconfig.cache
+C:\Users\dagegelman\Documents\LSG\LuckyStreakAlcoholInventory\LuckyStreakAlcoholInventory\obj\Debug\net8.0-windows\ref\LuckyStreakAlcoholInventory.dll
