@@ -86,22 +86,22 @@
 }
 
 .nav-logo{
-    color: rgb(117, 5, 1 );
+    color: rgb(117, 5, 1 ); /*#750501*/
 }
 
 .btn-custom {
-    background-color: rgb(117, 5, 1);
+    background-color: rgb(117, 5, 1); /*#750501*/
     color: white;
 }
 
 .btn-custom:disabled {
-    background-color: rgb(117, 5, 1);
+    background-color: rgb(117, 5, 1); /*#750501*/
     color: white;
     opacity: 0.65; /* Optional: Add opacity to give a disabled effect */
 }
 
 .hours{
-  color: rgb(117, 5, 1 );
+  color: rgb(117, 5, 1 ); /*#750501*/
   font-weight: 800;
   font-size: 22px;
 }
@@ -113,7 +113,7 @@
 }
 
 .promo-card-text2{
-  color: rgb(117, 5, 1 );
+  color: rgb(117, 5, 1 ); 
   font-family:Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
@@ -125,7 +125,7 @@
 }
 
 .custom-gap {
-  gap: 8rem; /* Adjust as needed */
+  gap: 10rem; /* Adjust as needed */
 }
 
 .custom-shadow {
