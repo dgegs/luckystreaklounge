@@ -188,6 +188,7 @@
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 255, 255, 255;
   --bs-lslgold: #CEAA6C;
+  --bs-bg-lsllightgold: #fafbe5;
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
@@ -267,6 +268,10 @@
 
 .my-fa:hover{
   color: red; /* Change on hover */
+}
+
+.bg-lsllightgold{
+  background-color: #fcdd6e;
 }
 
 @media (prefers-reduced-motion: no-preference) {
