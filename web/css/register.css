@@ -1,0 +1,14 @@
+/* Only safe visual styling */
+.modal-content {
+  background-color: #fff;   /* optional */
+  border-radius: 15px;      /* optional */
+  padding: 2rem;            /* optional */
+}
+
+/* Optional: modal header title styling */
+.modal-header .modal-title {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+/* Optional: modal button styling is handled by Bootstrap, no need for .close */
